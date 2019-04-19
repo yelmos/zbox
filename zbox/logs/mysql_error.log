@@ -1,0 +1,340 @@
+2019-03-25 20:36:07 0 [Note] InnoDB: Using Linux native AIO
+2019-03-25 20:36:07 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-03-25 20:36:07 0 [Note] InnoDB: Uses event mutexes
+2019-03-25 20:36:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-03-25 20:36:07 0 [Note] InnoDB: Number of pools: 1
+2019-03-25 20:36:07 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-03-25 20:36:07 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-03-25 20:36:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-03-25 20:36:07 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-03-25 20:36:07 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-03-25 20:36:07 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-03-25 20:36:07 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-03-25 20:36:07 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-03-25 20:36:07 0 [Note] InnoDB: 10.3.13 started; log sequence number 1630815; transaction id 21
+2019-03-25 20:36:07 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-03-25 20:36:07 0 [Note] InnoDB: Buffer pool(s) load completed at 190325 20:36:07
+2019-03-25 20:36:07 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-03-25 20:36:07 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-03-25 20:36:07 0 [Note] Reading of all Master_info entries succeded
+2019-03-25 20:36:07 0 [Note] Added new Master_info '' to hash table
+2019-03-25 20:36:07 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-03-25 20:36:11 0 [Note] /opt/zbox/run/mysql/mysqld (initiated by: unknown): Normal shutdown
+2019-03-25 20:36:11 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-03-25 20:36:11 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-03-25 20:36:11 0 [Note] InnoDB: Starting shutdown...
+2019-03-25 20:36:11 0 [Note] InnoDB: Dumping buffer pool(s) to /opt/zbox/data/mysql/ib_buffer_pool
+2019-03-25 20:36:11 0 [Note] InnoDB: Buffer pool(s) dump completed at 190325 20:36:11
+2019-03-25 20:36:12 0 [Note] InnoDB: Shutdown completed; log sequence number 1630824; transaction id 22
+2019-03-25 20:36:12 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-03-25 20:36:12 0 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2019-04-17  9:49:51 0 [Note] InnoDB: Using Linux native AIO
+2019-04-17  9:49:51 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2019-04-17  9:49:51 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-17  9:49:51 0 [Note] InnoDB: Uses event mutexes
+2019-04-17  9:49:51 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-17  9:49:51 0 [Note] InnoDB: Number of pools: 1
+2019-04-17  9:49:51 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-17  9:49:51 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-17  9:49:51 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-17  9:49:51 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-17  9:49:51 0 [Note] InnoDB: Setting file './ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17  9:49:51 0 [Note] InnoDB: File './ibdata1' size is now 12 MB.
+2019-04-17  9:49:51 0 [Note] InnoDB: Setting log file ./ib_logfile101 size to 50331648 bytes
+2019-04-17  9:49:51 0 [Note] InnoDB: Setting log file ./ib_logfile1 size to 50331648 bytes
+2019-04-17  9:49:51 0 [Note] InnoDB: Renaming log file ./ib_logfile101 to ./ib_logfile0
+2019-04-17  9:49:51 0 [Note] InnoDB: New log files created, LSN=45786
+2019-04-17  9:49:51 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2019-04-17  9:49:51 0 [Note] InnoDB: Doublewrite buffer created
+2019-04-17  9:49:51 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-17  9:49:51 0 [Note] InnoDB: Creating foreign key constraint system tables.
+2019-04-17  9:49:51 0 [Note] InnoDB: Creating tablespace and datafile system tables.
+2019-04-17  9:49:52 0 [Note] InnoDB: Creating sys_virtual system tables.
+2019-04-17  9:49:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-17  9:49:52 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17  9:49:52 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-17  9:49:52 0 [Note] InnoDB: Waiting for purge to start
+2019-04-17  9:49:52 0 [Note] InnoDB: 10.3.13 started; log sequence number 0; transaction id 7
+2019-04-17  9:49:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-17  9:49:52 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-17  9:49:52 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-17  9:49:52 0 [Note] Reading of all Master_info entries succeded
+2019-04-17  9:49:52 0 [Note] Added new Master_info '' to hash table
+2019-04-17  9:49:52 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-17  9:53:28 0 [Note] /opt/zbox/run/mysql/mysqld (initiated by: unknown): Normal shutdown
+2019-04-17  9:53:28 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-04-17  9:53:28 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-04-17  9:53:28 0 [Note] InnoDB: Starting shutdown...
+2019-04-17  9:53:28 0 [Note] InnoDB: Dumping buffer pool(s) to /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17  9:53:28 0 [Note] InnoDB: Buffer pool(s) dump completed at 190417  9:53:28
+2019-04-17  9:53:29 0 [Note] InnoDB: Shutdown completed; log sequence number 1603968; transaction id 7
+2019-04-17  9:53:29 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-17  9:53:29 0 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2019-04-17  9:53:36 0 [Note] InnoDB: Using Linux native AIO
+2019-04-17  9:53:36 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-17  9:53:36 0 [Note] InnoDB: Uses event mutexes
+2019-04-17  9:53:36 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-17  9:53:36 0 [Note] InnoDB: Number of pools: 1
+2019-04-17  9:53:36 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-17  9:53:36 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-17  9:53:36 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-17  9:53:36 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-17  9:53:36 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-17  9:53:36 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-17  9:53:36 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17  9:53:36 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-17  9:53:36 0 [Note] InnoDB: Waiting for purge to start
+2019-04-17  9:53:36 0 [Note] InnoDB: 10.3.13 started; log sequence number 1603968; transaction id 9
+2019-04-17  9:53:36 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17  9:53:36 0 [Note] InnoDB: Buffer pool(s) load completed at 190417  9:53:36
+2019-04-17  9:53:36 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-17  9:53:36 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-17  9:53:36 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-17  9:53:36 0 [Note] Reading of all Master_info entries succeded
+2019-04-17  9:53:36 0 [Note] Added new Master_info '' to hash table
+2019-04-17  9:53:36 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-17 10:00:24 0 [Note] /opt/zbox/run/mysql/mysqld (initiated by: unknown): Normal shutdown
+2019-04-17 10:00:24 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-04-17 10:00:24 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-04-17 10:00:25 0 [Note] InnoDB: Starting shutdown...
+2019-04-17 10:00:25 0 [Note] InnoDB: Dumping buffer pool(s) to /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:00:25 0 [Note] InnoDB: Buffer pool(s) dump completed at 190417 10:00:25
+2019-04-17 10:00:26 0 [Note] InnoDB: Shutdown completed; log sequence number 1603977; transaction id 9
+2019-04-17 10:00:26 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-17 10:00:26 0 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2019-04-17 10:03:57 0 [Note] InnoDB: Using Linux native AIO
+2019-04-17 10:03:57 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-17 10:03:57 0 [Note] InnoDB: Uses event mutexes
+2019-04-17 10:03:57 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-17 10:03:57 0 [Note] InnoDB: Number of pools: 1
+2019-04-17 10:03:57 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-17 10:03:57 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-17 10:03:57 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-17 10:03:57 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-17 10:03:57 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-17 10:03:57 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-17 10:03:57 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17 10:03:57 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-17 10:03:57 0 [Note] InnoDB: Waiting for purge to start
+2019-04-17 10:03:57 0 [Note] InnoDB: 10.3.13 started; log sequence number 1603977; transaction id 9
+2019-04-17 10:03:57 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:03:57 0 [Note] InnoDB: Buffer pool(s) load completed at 190417 10:03:57
+2019-04-17 10:03:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-17 10:03:57 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-17 10:03:57 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-17 10:03:57 0 [Note] Reading of all Master_info entries succeded
+2019-04-17 10:03:57 0 [Note] Added new Master_info '' to hash table
+2019-04-17 10:03:57 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-17 10:08:58 0 [Note] /opt/zbox/run/mysql/mysqld (initiated by: unknown): Normal shutdown
+2019-04-17 10:08:58 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-04-17 10:08:58 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-04-17 10:08:58 0 [Note] InnoDB: Starting shutdown...
+2019-04-17 10:08:58 0 [Note] InnoDB: Dumping buffer pool(s) to /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:08:58 0 [Note] InnoDB: Buffer pool(s) dump completed at 190417 10:08:58
+2019-04-17 10:08:59 0 [Note] InnoDB: Shutdown completed; log sequence number 1603986; transaction id 9
+2019-04-17 10:08:59 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-17 10:08:59 0 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2019-04-17 10:10:06 0 [Note] InnoDB: Using Linux native AIO
+2019-04-17 10:10:06 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-17 10:10:06 0 [Note] InnoDB: Uses event mutexes
+2019-04-17 10:10:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-17 10:10:06 0 [Note] InnoDB: Number of pools: 1
+2019-04-17 10:10:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-17 10:10:06 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-17 10:10:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-17 10:10:06 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-17 10:10:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-17 10:10:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-17 10:10:06 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17 10:10:06 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-17 10:10:06 0 [Note] InnoDB: Waiting for purge to start
+2019-04-17 10:10:06 0 [Note] InnoDB: 10.3.13 started; log sequence number 1603986; transaction id 9
+2019-04-17 10:10:06 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:10:06 0 [Note] InnoDB: Buffer pool(s) load completed at 190417 10:10:06
+2019-04-17 10:10:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-17 10:10:06 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-17 10:10:06 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-17 10:10:06 0 [Note] Reading of all Master_info entries succeded
+2019-04-17 10:10:06 0 [Note] Added new Master_info '' to hash table
+2019-04-17 10:10:06 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-17 10:10:53 0 [Note] /opt/zbox/run/mysql/mysqld (initiated by: unknown): Normal shutdown
+2019-04-17 10:10:53 0 [Note] Event Scheduler: Purging the queue. 0 events
+2019-04-17 10:10:53 0 [Note] InnoDB: FTS optimize thread exiting.
+2019-04-17 10:10:53 0 [Note] InnoDB: Starting shutdown...
+2019-04-17 10:10:53 0 [Note] InnoDB: Dumping buffer pool(s) to /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:10:53 0 [Note] InnoDB: Buffer pool(s) dump completed at 190417 10:10:53
+2019-04-17 10:10:55 0 [Note] InnoDB: Shutdown completed; log sequence number 1603995; transaction id 9
+2019-04-17 10:10:55 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-17 10:10:55 0 [Note] /opt/zbox/run/mysql/mysqld: Shutdown complete
+
+2019-04-17 10:11:32 0 [Note] InnoDB: Using Linux native AIO
+2019-04-17 10:11:32 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-17 10:11:32 0 [Note] InnoDB: Uses event mutexes
+2019-04-17 10:11:32 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-17 10:11:32 0 [Note] InnoDB: Number of pools: 1
+2019-04-17 10:11:32 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-17 10:11:32 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-17 10:11:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-17 10:11:32 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-17 10:11:33 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-17 10:11:33 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-17 10:11:33 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-17 10:11:33 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-17 10:11:33 0 [Note] InnoDB: Waiting for purge to start
+2019-04-17 10:11:33 0 [Note] InnoDB: 10.3.13 started; log sequence number 1603995; transaction id 9
+2019-04-17 10:11:33 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-17 10:11:33 0 [Note] InnoDB: Buffer pool(s) load completed at 190417 10:11:33
+2019-04-17 10:11:33 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-17 10:11:33 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-17 10:11:33 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-17 10:11:33 0 [Note] Reading of all Master_info entries succeded
+2019-04-17 10:11:33 0 [Note] Added new Master_info '' to hash table
+2019-04-17 10:11:33 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-17 10:12:46 8 [ERROR] mysqld: Table './zentao/zt_config' is marked as crashed and should be repaired
+2019-04-17 10:12:46 8 [Warning] Checking table:   './zentao/zt_config'
+2019-04-17 10:12:46 8 [ERROR] mysqld: Table './zentao/zt_company' is marked as crashed and should be repaired
+2019-04-17 10:12:46 8 [Warning] Checking table:   './zentao/zt_company'
+2019-04-17 10:12:46 9 [ERROR] mysqld: Table './zentao/zt_cron' is marked as crashed and should be repaired
+2019-04-17 10:12:46 9 [Warning] Checking table:   './zentao/zt_cron'
+2019-04-17 10:13:12 12 [ERROR] mysqld: Table './zentao/zt_user' is marked as crashed and should be repaired
+2019-04-17 10:13:12 12 [Warning] Checking table:   './zentao/zt_user'
+2019-04-17 10:13:52 13 [ERROR] mysqld: Table './zentao/zt_group' is marked as crashed and should be repaired
+2019-04-17 10:13:52 13 [Warning] Checking table:   './zentao/zt_group'
+2019-04-17 10:13:52 13 [ERROR] mysqld: Table './zentao/zt_grouppriv' is marked as crashed and should be repaired
+2019-04-17 10:13:52 13 [Warning] Checking table:   './zentao/zt_grouppriv'
+2019-04-18 16:51:47 0 [Note] InnoDB: Using Linux native AIO
+2019-04-18 16:51:47 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-18 16:51:47 0 [Note] InnoDB: Uses event mutexes
+2019-04-18 16:51:47 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-18 16:51:47 0 [Note] InnoDB: Number of pools: 1
+2019-04-18 16:51:47 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-18 16:51:47 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-18 16:51:47 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-18 16:51:47 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-18 16:51:47 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1603995
+2019-04-18 16:51:47 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-18 16:51:47 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-18 16:51:47 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-18 16:51:47 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-18 16:51:47 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-18 16:51:47 0 [Note] InnoDB: Waiting for purge to start
+2019-04-18 16:51:47 0 [Note] InnoDB: 10.3.13 started; log sequence number 1604004; transaction id 9
+2019-04-18 16:51:47 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-18 16:51:47 0 [Note] InnoDB: Buffer pool(s) load completed at 190418 16:51:47
+2019-04-18 16:51:47 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-18 16:51:47 0 [Note] Recovering after a crash using tc.log
+2019-04-18 16:51:47 0 [Note] Starting crash recovery...
+2019-04-18 16:51:47 0 [Note] Crash recovery finished.
+2019-04-18 16:51:47 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-18 16:51:47 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-18 16:51:47 0 [Note] Reading of all Master_info entries succeded
+2019-04-18 16:51:47 0 [Note] Added new Master_info '' to hash table
+2019-04-18 16:51:47 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-18 16:53:54 8 [ERROR] mysqld: Table './zentao/zt_config' is marked as crashed and should be repaired
+2019-04-18 16:53:54 8 [Warning] Checking table:   './zentao/zt_config'
+2019-04-18 16:53:54 8 [ERROR] mysqld: Table './zentao/zt_userview' is marked as crashed and should be repaired
+2019-04-18 16:53:54 8 [Warning] Checking table:   './zentao/zt_userview'
+2019-04-18 16:58:41 9 [ERROR] mysqld: Table './zentao/zt_cron' is marked as crashed and should be repaired
+2019-04-18 16:58:41 9 [Warning] Checking table:   './zentao/zt_cron'
+2019-04-18 16:58:41 10 [ERROR] mysqld: Table './zentao/zt_company' is marked as crashed and should be repaired
+2019-04-18 16:58:41 10 [Warning] Checking table:   './zentao/zt_company'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_project' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_project'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_task' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_task'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_team' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_team'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_projectproduct' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_projectproduct'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_product' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_product'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_user' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_user'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_action' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_action'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_block' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_block'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_bug' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_bug'
+2019-04-18 16:58:50 11 [ERROR] mysqld: Table './zentao/zt_burn' is marked as crashed and should be repaired
+2019-04-18 16:58:50 11 [Warning] Checking table:   './zentao/zt_burn'
+2019-04-18 16:58:53 12 [ERROR] mysqld: Table './zentao/zt_module' is marked as crashed and should be repaired
+2019-04-18 16:58:53 12 [Warning] Checking table:   './zentao/zt_module'
+2019-04-18 16:58:57 13 [ERROR] mysqld: Table './zentao/zt_doclib' is marked as crashed and should be repaired
+2019-04-18 16:58:57 13 [Warning] Checking table:   './zentao/zt_doclib'
+2019-04-18 16:58:57 13 [ERROR] mysqld: Table './zentao/zt_doc' is marked as crashed and should be repaired
+2019-04-18 16:58:57 13 [Warning] Checking table:   './zentao/zt_doc'
+2019-04-19  0:30:42 10 [ERROR] mysqld: Table './zentao/zt_doccontent' is marked as crashed and should be repaired
+2019-04-19  0:30:42 10 [Warning] Checking table:   './zentao/zt_doccontent'
+2019-04-19  0:30:42 10 [ERROR] mysqld: Table './zentao/zt_im_message' is marked as crashed and should be repaired
+2019-04-19  0:30:42 10 [Warning] Checking table:   './zentao/zt_im_message'
+2019-04-19  0:30:42 10 [ERROR] mysqld: Table './zentao/zt_im_messagestatus' is marked as crashed and should be repaired
+2019-04-19  0:30:42 10 [Warning] Checking table:   './zentao/zt_im_messagestatus'
+2019-04-19  8:14:58 0 [Note] InnoDB: Using Linux native AIO
+2019-04-19  8:14:58 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-19  8:14:58 0 [Note] InnoDB: Uses event mutexes
+2019-04-19  8:14:58 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-19  8:14:58 0 [Note] InnoDB: Number of pools: 1
+2019-04-19  8:14:58 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-19  8:14:58 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-19  8:14:58 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-19  8:14:58 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-19  8:14:58 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1604013
+2019-04-19  8:14:58 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-19  8:14:58 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-19  8:14:58 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-19  8:14:58 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-19  8:14:58 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-19  8:14:58 0 [Note] InnoDB: 10.3.13 started; log sequence number 1604022; transaction id 9
+2019-04-19  8:14:58 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-19  8:14:58 0 [Note] InnoDB: Buffer pool(s) load completed at 190419  8:14:58
+2019-04-19  8:14:58 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-19  8:14:58 0 [Note] Recovering after a crash using tc.log
+2019-04-19  8:14:58 0 [Note] Starting crash recovery...
+2019-04-19  8:14:58 0 [Note] Crash recovery finished.
+2019-04-19  8:14:58 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-19  8:14:58 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-19  8:14:58 0 [Note] Reading of all Master_info entries succeded
+2019-04-19  8:14:58 0 [Note] Added new Master_info '' to hash table
+2019-04-19  8:14:58 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution
+2019-04-19  8:17:19 0 [Note] InnoDB: Using Linux native AIO
+2019-04-19  8:17:19 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2019-04-19  8:17:19 0 [Note] InnoDB: Uses event mutexes
+2019-04-19  8:17:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2019-04-19  8:17:19 0 [Note] InnoDB: Number of pools: 1
+2019-04-19  8:17:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2019-04-19  8:17:19 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2019-04-19  8:17:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2019-04-19  8:17:19 0 [Note] InnoDB: If the mysqld execution user is authorized, page cleaner thread priority can be changed. See the man page of setpriority().
+2019-04-19  8:17:19 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=1604031
+2019-04-19  8:17:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2019-04-19  8:17:19 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2019-04-19  8:17:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2019-04-19  8:17:19 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2019-04-19  8:17:19 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2019-04-19  8:17:19 0 [Note] InnoDB: Waiting for purge to start
+2019-04-19  8:17:19 0 [Note] InnoDB: 10.3.13 started; log sequence number 1604040; transaction id 9
+2019-04-19  8:17:19 0 [Note] InnoDB: Loading buffer pool(s) from /opt/zbox/data/mysql/ib_buffer_pool
+2019-04-19  8:17:19 0 [Note] InnoDB: Buffer pool(s) load completed at 190419  8:17:19
+2019-04-19  8:17:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2019-04-19  8:17:19 0 [Note] Recovering after a crash using tc.log
+2019-04-19  8:17:19 0 [Note] Starting crash recovery...
+2019-04-19  8:17:19 0 [Note] Crash recovery finished.
+2019-04-19  8:17:20 0 [Note] Server socket created on IP: '127.0.0.1'.
+2019-04-19  8:17:20 6 [Warning] Failed to load slave replication state from table mysql.gtid_slave_pos: 1932: Table 'mysql.gtid_slave_pos' doesn't exist in engine
+2019-04-19  8:17:20 0 [Note] Reading of all Master_info entries succeded
+2019-04-19  8:17:20 0 [Note] Added new Master_info '' to hash table
+2019-04-19  8:17:20 0 [Note] /opt/zbox/run/mysql/mysqld: ready for connections.
+Version: '10.3.13-MariaDB'  socket: '/opt/zbox/tmp/mysql/mysql.sock'  port: 3306  Source distribution

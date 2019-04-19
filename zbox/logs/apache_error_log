@@ -1,0 +1,51 @@
+[Wed Apr 17 09:49:49.367007 2019] [ssl:warn] [pid 27607:tid 140546944558912] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 09:49:49.380107 2019] [ssl:warn] [pid 27608:tid 140546944558912] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 09:49:49.380163 2019] [ssl:warn] [pid 27608:tid 140546944558912] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 17 09:49:49.385037 2019] [mpm_event:notice] [pid 27608:tid 140546944558912] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Wed Apr 17 09:49:49.385050 2019] [core:notice] [pid 27608:tid 140546944558912] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Wed Apr 17 09:53:26.499725 2019] [mpm_event:notice] [pid 27608:tid 140546944558912] AH00491: caught SIGTERM, shutting down
+[Wed Apr 17 09:53:34.268902 2019] [ssl:warn] [pid 28047:tid 139984521426752] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 09:53:34.281787 2019] [ssl:warn] [pid 28048:tid 139984521426752] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 09:53:34.281859 2019] [ssl:warn] [pid 28048:tid 139984521426752] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 17 09:53:34.286800 2019] [mpm_event:notice] [pid 28048:tid 139984521426752] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Wed Apr 17 09:53:34.286826 2019] [core:notice] [pid 28048:tid 139984521426752] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Wed Apr 17 09:53:48.744816 2019] [authz_core:error] [pid 28052:tid 139983897741056] [client 192.168.0.147:58731] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Wed Apr 17 10:00:25.051463 2019] [mpm_event:notice] [pid 28048:tid 139984521426752] AH00491: caught SIGTERM, shutting down
+[Wed Apr 17 10:03:54.251707 2019] [ssl:warn] [pid 14819:tid 139905834424128] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:03:54.294937 2019] [ssl:warn] [pid 14820:tid 139905834424128] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:03:54.302279 2019] [ssl:warn] [pid 14820:tid 139905834424128] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 17 10:03:54.415178 2019] [mpm_event:notice] [pid 14820:tid 139905834424128] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Wed Apr 17 10:03:54.415233 2019] [core:notice] [pid 14820:tid 139905834424128] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Wed Apr 17 10:08:56.343322 2019] [mpm_event:notice] [pid 14820:tid 139905834424128] AH00491: caught SIGTERM, shutting down
+[Wed Apr 17 10:10:04.131095 2019] [ssl:warn] [pid 15283:tid 139737752917824] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:10:04.144111 2019] [ssl:warn] [pid 15284:tid 139737752917824] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:10:04.144177 2019] [ssl:warn] [pid 15284:tid 139737752917824] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 17 10:10:04.149278 2019] [mpm_event:notice] [pid 15284:tid 139737752917824] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Wed Apr 17 10:10:04.149291 2019] [core:notice] [pid 15284:tid 139737752917824] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Wed Apr 17 10:10:51.786751 2019] [mpm_event:notice] [pid 15284:tid 139737752917824] AH00491: caught SIGTERM, shutting down
+[Wed Apr 17 10:11:30.053888 2019] [ssl:warn] [pid 5444:tid 139998751479616] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:11:30.108238 2019] [ssl:warn] [pid 5526:tid 139998751479616] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Wed Apr 17 10:11:30.108583 2019] [ssl:warn] [pid 5526:tid 139998751479616] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Apr 17 10:11:30.234791 2019] [mpm_event:notice] [pid 5526:tid 139998751479616] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Wed Apr 17 10:11:30.234845 2019] [core:notice] [pid 5526:tid 139998751479616] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Wed Apr 17 10:11:59.960641 2019] [authz_core:error] [pid 5528:tid 139998234232576] [client 192.168.0.147:59153] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Wed Apr 17 10:12:04.024098 2019] [authz_core:error] [pid 5528:tid 139998141605632] [client 192.168.0.147:59153] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/?lang=cn
+[Wed Apr 17 10:20:51.736208 2019] [authz_core:error] [pid 5830:tid 139997847992064] [client 192.168.0.147:59398] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Wed Apr 17 10:24:39.439781 2019] [authz_core:error] [pid 5830:tid 139997579556608] [client 192.168.0.234:54175] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Wed Apr 17 10:26:04.000888 2019] [authz_core:error] [pid 5830:tid 139997453731584] [client 192.168.0.234:54222] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Thu Apr 18 12:46:03.449212 2019] [authz_core:error] [pid 5830:tid 139997453731584] [client 192.168.0.234:49391] AH01630: client denied by server configuration: /opt/zbox/app/zentaopro, referer: http://192.168.0.237/
+[Thu Apr 18 12:46:33.579902 2019] [auth_basic:error] [pid 5830:tid 139997470516992] [client 192.168.0.234:49424] AH01618: user admin not found: /adminer/, referer: http://192.168.0.237/
+[Thu Apr 18 12:46:54.297653 2019] [auth_basic:error] [pid 5830:tid 139997445338880] [client 192.168.0.234:49435] AH01618: user admin not found: /adminer/, referer: http://192.168.0.237/
+[Thu Apr 18 12:46:55.198893 2019] [auth_basic:error] [pid 5830:tid 139997462124288] [client 192.168.0.234:49435] AH01618: user  not found: /adminer/, referer: http://192.168.0.237/
+[Thu Apr 18 16:51:44.034575 2019] [ssl:warn] [pid 5417:tid 140383717635904] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Thu Apr 18 16:51:44.092835 2019] [ssl:warn] [pid 5499:tid 140383717635904] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Thu Apr 18 16:51:44.093695 2019] [ssl:warn] [pid 5499:tid 140383717635904] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Apr 18 16:51:44.218446 2019] [core:warn] [pid 5499:tid 140383717635904] AH00098: pid file /opt/zbox/tmp/apache/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Apr 18 16:51:44.221577 2019] [mpm_event:notice] [pid 5499:tid 140383717635904] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Thu Apr 18 16:51:44.221620 2019] [core:notice] [pid 5499:tid 140383717635904] AH00094: Command line: '/opt/zbox/run/apache/httpd'
+[Fri Apr 19 08:17:16.641979 2019] [ssl:warn] [pid 5493:tid 140327685277504] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Fri Apr 19 08:17:16.714197 2019] [ssl:warn] [pid 5508:tid 140327685277504] AH01882: Init: this version of mod_ssl was compiled against a newer library (OpenSSL 1.0.2r  26 Feb 2019, version currently loaded is OpenSSL 1.0.2n  7 Dec 2017) - may result in undefined or erroneous behavior
+[Fri Apr 19 08:17:16.717570 2019] [ssl:warn] [pid 5508:tid 140327685277504] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Apr 19 08:17:16.841163 2019] [core:warn] [pid 5508:tid 140327685277504] AH00098: pid file /opt/zbox/tmp/apache/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 19 08:17:16.844359 2019] [mpm_event:notice] [pid 5508:tid 140327685277504] AH00489: Apache/2.4.25 (Unix) OpenSSL/1.0.2n configured -- resuming normal operations
+[Fri Apr 19 08:17:16.844408 2019] [core:notice] [pid 5508:tid 140327685277504] AH00094: Command line: '/opt/zbox/run/apache/httpd'
